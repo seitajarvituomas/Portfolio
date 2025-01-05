@@ -1,0 +1,20 @@
+The game is pretty player-friendly to use. You first need to start the game to move the pawns.
+Rules can be seen with the buttons "rules", but i will put them here too
+
+-Rules-
+move the red pawns where the green ones are originally and the other way around without
+going over other pawns. The game will tell if the move is not legal/will no let pawns go on top
+of each other. The game should be completed in 31 or 30 moves, but it will let you ponder as much
+as you want, but it will say "you lost" if you go over 31 moves to move the pawns.
+
+Example play shows how to win the game in 33 moves. During this the only thing you can do is watch.
+When example play ends/manual play ends you need to press "reset". This is on purpose so that the
+player can press start in peace so you can hit those record times (:D).
+
+Additions
+Pause-button
+The background change when lose/win/example_play_ends
+example_play-animation
+pictures used on gameboard and pawns
+
+
